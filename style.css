@@ -1,0 +1,12 @@
+.bg1{
+    /* border: gray 1px solid; */
+    /* background-color: white; */
+    border-radius: 10px;
+    box-shadow: 0 0 2px 1px gray;
+    padding: 10px;
+}
+
+.border_btm{
+    font-size: 22px;
+    border-bottom: gray 1px solid;
+}
